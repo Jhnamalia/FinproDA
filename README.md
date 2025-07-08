@@ -11,7 +11,7 @@ This interactive Streamlit dashboard applies RFM (Recency, Frequency, Monetary) 
 - Dataset: Hotel Sales 2024 (Malaysia)
 - Size: 6,050 transactions across 3 hotels
 - Goal: Segment customers using RFM Analysis and generate business recommendations
-- Tools: Python, Streamlit, Plotly, Pandas
+- Tools: Google Colab, PowerBI, Visual Studio Code, Streamlit, Plotly, Pandas
 
 📊 Features
 - RFM segmentation with dynamic filters
