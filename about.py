@@ -35,7 +35,7 @@ def tampilkan_tentang():
             """
         )
         st.markdown("📊 Dataset Source: [Kaggle - Hotel Sales 2024](https://www.kaggle.com/datasets/tianrongsim/hotel-sales-2024/data)")
-        st.markdown("📎 Project Slide Deck: [Google Slides](https://docs.google.com/presentation/d/1fKQ6PXO1slFlNE1sXa9nL5Ake7Tv_rUXe0ABv_h1o4Y/edit?slide=id.g3598e7f6a2f_0_572)")
+        st.markdown("📎 Project Slide Deck: [Google Slides](https://drive.google.com/file/d/1LLCgBu7N_E8o8ElAO3j3-xVbjisD9w-I/view?usp=drive_link)")
         st.markdown("---")
         st.markdown("### 📬 Contact Me")
         st.markdown("Please feel free to reach out with any Questions, compliments, or concerns. Let’s collaborate and connect!")
